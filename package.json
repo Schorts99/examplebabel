@@ -1,0 +1,19 @@
+{
+  "name": "exampleBabel",
+  "version": "0.0.1",
+  "description": "An example of how to use Babel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Schorts99",
+  "license": "MIT",
+  "dependencies": {
+    "babel-register": "^6.18.0",
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2016": "^6.16.0"
+  }
+}
